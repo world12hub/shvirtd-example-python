@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone https://github.com/YOUR_USERNAME/YOUR_FORK_REPO.git /opt/myproject
+git clone git clone https://github.com/world12hub/shvirtd-example-python.git /opt/myproject
 cd /opt/myproject
 cat > .env <<EOF
 MYSQL_ROOT_PASSWORD="YtReWq4321"
