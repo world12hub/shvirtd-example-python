@@ -7,3 +7,5 @@ MYSQL_DATABASE="virtd"
 MYSQL_USER="app"
 MYSQL_PASSWORD="QwErTy1234"
 EOF
+docker compose up -d
+
